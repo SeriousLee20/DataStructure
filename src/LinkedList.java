@@ -4,7 +4,7 @@
  * 04 Feb 2021
  */
 
-public class Node {
+class Node {
     Node next;
     int data;
 
@@ -14,7 +14,8 @@ public class Node {
 }
 
 
-class LinkedList {
+/* Doubly linked list*/
+public class LinkedList {
 
     Node head;
 
